@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+/*Tourism Website Home Page*/
+.tourism_website_bg_container {
+    background-image: linear-gradient(#487cf7, #ffffff, #ab7fd4);
+    height: 100vh;
+}
+
+.tourism_website_bg_image {
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+
+.tourism_website_card_container {
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-style: dotted;
+    border-color: #ffffff;
+    border-width: 2px;
+    background-color: transparent;
+}
+
+.tourism_website_card_container_main_heading {
+    font-family: "Times New Roman";
+    font-size: 38px;
+    font-weight: 900;
+    color: #000000;
+}
+
+.tourism_website_card_container_caption {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.tourism_website_card_container_button {
+    height: 40px;
+    width: 140px;
+    font-family: "Times New Roman";
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-width: 3px;
+    background-color: transparent;
+    border-radius: 8px;
+}
+
+/*Tourism Website Favourite Places Page*/
+
+.tourism-website-favourite-places-bg-container {
+    background-image: linear-gradient(#487cf7, #ffffff, #ab7fd4);
+}
+
+.tourism-website-favourite_places-main-heading {
+    font-family: "Times New Roman";
+    font-size: 38px;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+.tourism-website-favourite_places-card-container {
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+    background-color: transparent;
+    border-radius: 8px;
+}
+
+.tourism-website-favourite_places-card-text-container-main-heading {
+    font-family: "Times New Roman";
+    font-size: 26px;
+    font-weight: 900;
+    color: #000000;
+    text-decoration: underline;
+}
+
+.tourism-website-favourite_places-card-text-container-description {
+    font-family: "Times New Roman";
+    font-size: 15px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.tourism-website-favourite_places-card-image {
+    height: 150px;
+    width: 100px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffffff;
+}
+
+.tourism-website-favourite_places-button {
+    height: 40px;
+    width: 120px;
+    font-family: "Times New Roman";
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-width: 3px;
+    background-color: transparent;
+    border-radius: 8px;
+}
+
+/*Tourism Website Detailed View Page*/
+
+.tourism-website-detailed-view-bg-container {
+    background-image: linear-gradient(#487cf7, #ffffff, #ab7fd4);
+}
+
+.tourism-website-detailed-view-main-heading {
+    font-family: "Times New Roman";
+    font-size: 38px;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+.tourism-website-detailed-view-carousal-image {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.tourism-website-detailed-view-carousal-text-container {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.tourism-website-detailed-view-carousal-main-heading {
+    font-family: "Times New Roman";
+    font-size: 28px;
+    font-weight: 900;
+    color: #000000;
+    text-decoration: underline;
+}
+
+.tourism-website-detailed-view-carousal-description {
+    font-family: "Times New Roman";
+    font-size: 15px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.tourism-website-detailed-view-back-button {
+    height: 40px;
+    width: 120px;
+    font-family: "Times New Roman";
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-width: 3px;
+    background-color: transparent;
+    border-radius: 8px;
+}
